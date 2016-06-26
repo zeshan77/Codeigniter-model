@@ -10,7 +10,7 @@ Codeigniter model best practices with examples
 # Examples
 
 # License
-Please see the license agreement
+Please see the [license agreement](../blob/master/LICENSE)
 
 # Resources
 
