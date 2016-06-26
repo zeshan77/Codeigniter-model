@@ -1,2 +1,18 @@
-# CI-model
+# What is it about
 Codeigniter model best practices with examples
+
+# How it can help you
+
+#Installation
+
+# Usage
+
+# Examples
+
+# License
+Please see the license agreement
+
+# Resources
+
+* Wiki
+Please look into the Wiki page for details information.
