@@ -7,6 +7,9 @@ As every model has some common functions, here we've tried to consolidate all th
 in any model. Hence you won't need to write same functions again and again.
 
 #Installation
+Place this `MY_Model.php` class inside application/core/ and extend `MY_Model` instead of `CI_Model` in rest of the
+models.
+
 
 # Usage
 
